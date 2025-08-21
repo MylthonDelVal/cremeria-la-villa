@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.0fc9860a.css",
-    "main.js": "/static/js/main.21e3c8d0.js",
-    "static/js/453.2e3514f8.chunk.js": "/static/js/453.2e3514f8.chunk.js",
-    "static/media/yogurt.jpg": "/static/media/yogurt.f731f27f581f85ec3161.jpg",
-    "static/media/crema.jpg": "/static/media/crema.0040c370d619892ec007.jpg",
-    "static/media/queso.jpg": "/static/media/queso.393255644930eb08dd50.jpg",
-    "index.html": "/index.html",
-    "main.0fc9860a.css.map": "/static/css/main.0fc9860a.css.map",
-    "main.21e3c8d0.js.map": "/static/js/main.21e3c8d0.js.map",
-    "453.2e3514f8.chunk.js.map": "/static/js/453.2e3514f8.chunk.js.map"
+    "main.css": "/cremeria-la-villa/static/css/main.0fc9860a.css",
+    "main.js": "/cremeria-la-villa/static/js/main.efae4f0a.js",
+    "static/js/453.2e3514f8.chunk.js": "/cremeria-la-villa/static/js/453.2e3514f8.chunk.js",
+    "static/media/yogurt.jpg": "/cremeria-la-villa/static/media/yogurt.f731f27f581f85ec3161.jpg",
+    "static/media/crema.jpg": "/cremeria-la-villa/static/media/crema.0040c370d619892ec007.jpg",
+    "static/media/queso.jpg": "/cremeria-la-villa/static/media/queso.393255644930eb08dd50.jpg",
+    "index.html": "/cremeria-la-villa/index.html",
+    "main.0fc9860a.css.map": "/cremeria-la-villa/static/css/main.0fc9860a.css.map",
+    "main.efae4f0a.js.map": "/cremeria-la-villa/static/js/main.efae4f0a.js.map",
+    "453.2e3514f8.chunk.js.map": "/cremeria-la-villa/static/js/453.2e3514f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fc9860a.css",
-    "static/js/main.21e3c8d0.js"
+    "static/js/main.efae4f0a.js"
   ]
 }
